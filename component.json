@@ -1,0 +1,15 @@
+{
+  "name": "reduce",
+  "repo": "ianstormtaylor/reduce",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Reduce an array or object.",
+  "keywords": ["reduce", "array", "object"],
+  "dependencies": {
+    "component/each": "*"
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "scripts": ["index.js"]
+}
